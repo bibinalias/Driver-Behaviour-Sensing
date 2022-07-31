@@ -1,0 +1,8 @@
+#ifndef __ACCELEROMETER_INIT_DEINIT_H
+#define __ACCELEROMETER_INIT_DEINIT_H
+
+void USER_Device_Orientation_Accelerometer_Init(void);
+void USER_Device_Orientation_Accelerometer_DeInit(void);
+void USER_Forward_axes_and_Tilt_Accelerometer_Init(void);
+
+#endif

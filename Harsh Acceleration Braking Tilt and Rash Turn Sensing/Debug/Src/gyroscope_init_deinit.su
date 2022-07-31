@@ -1,0 +1,3 @@
+gyroscope_init_deinit.c:20:6:USER_Device_Orientation_Gyroscope_Init	40	static
+gyroscope_init_deinit.c:198:6:USER_Rash_Turn_Gyroscope_Init	40	static
+gyroscope_init_deinit.c:380:6:USER_Device_Orientation_Gyroscope_DeInit	24	static

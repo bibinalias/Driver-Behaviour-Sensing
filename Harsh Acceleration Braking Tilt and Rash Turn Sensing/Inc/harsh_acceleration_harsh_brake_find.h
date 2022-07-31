@@ -1,0 +1,7 @@
+#ifndef __HARSH_ACCELERATION_HARSH_BRAKE_FIND_H
+#define __HARSH_ACCELERATION_HARSH_BRAKE_FIND_H
+
+enum Acceleration_Brake USER_Harsh_Acceleration_Harsh_brake_Find(void);
+#define HARSH_ACCELERATION_HARSH_BRAKE_ITRATION_THRESHOLD 3
+#define NOT_HARSH_ITRATION_THRESHOLD 5
+#endif

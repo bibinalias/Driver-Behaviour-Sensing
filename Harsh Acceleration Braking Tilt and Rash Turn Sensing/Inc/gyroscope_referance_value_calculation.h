@@ -1,0 +1,8 @@
+#ifndef __GYROSCOPE_REFERANCE_VALUE_CALCULATION_H
+#define __GYROSCOPE_REFERANCE_VALUE_CALCULATION_H
+#define NUMBER_OF_GYROSCOPE_SAMPLES 10
+
+
+void USER_Gyroscope_Referance_Value_Calculation(void);
+
+#endif

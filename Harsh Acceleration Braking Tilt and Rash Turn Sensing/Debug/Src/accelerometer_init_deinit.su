@@ -1,0 +1,3 @@
+accelerometer_init_deinit.c:21:6:USER_Device_Orientation_Accelerometer_Init	40	static
+accelerometer_init_deinit.c:214:6:USER_Forward_axes_and_Tilt_Accelerometer_Init	40	static
+accelerometer_init_deinit.c:422:6:USER_Device_Orientation_Accelerometer_DeInit	24	static

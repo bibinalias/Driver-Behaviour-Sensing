@@ -1,0 +1,2 @@
+device_orientation_wakeup_init_deinit.c:19:6:USER_Device_Orientation_WakeUp_init	40	static
+device_orientation_wakeup_init_deinit.c:206:6:USER_Device_Orientation_WakeUp_DeInit	40	static
